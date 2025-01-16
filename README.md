@@ -8,7 +8,7 @@ Analyze and visualize the distribution of a categorical variable (e.g., `Sex`) u
 
 ### Files
 - `Task1.R`: R script to create a bar chart for categorical variable distribution.
-- `dataset.csv`: Titanic dataset used for this task.
+- `Titanic_Dataset.csv`: Titanic dataset used for this task.
 
 ### How to Run
 1. Clone the repository or download it as a ZIP file.
